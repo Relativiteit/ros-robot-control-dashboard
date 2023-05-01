@@ -1,4 +1,3 @@
-https://github.com/Relativiteit/ros-robot-control-dashboard/actions/workflows/learn-github-actions/badge.svg
 ![example workflow](https://github.com/Relativiteit/ros-robot-control-dashboard/actions/workflows/learn-github-actions/badge.svg)
 
 # ROS Robot Control Dashboard
