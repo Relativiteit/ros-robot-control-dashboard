@@ -1,5 +1,7 @@
 ![example workflow](https://github.com/Relativiteit/ros-robot-control-dashboard/actions/workflows/learn-github-actions.yml/badge.svg?branch=main)
-![example workflow](https://github.com/Relativiteit/ros-robot-control-dashboard/actions/workflows/learn-github-actions.yml/badge.svg?branch=feature%2Fgithub-actions)
+
+<!-- only use this for features if needed -->
+<!--![example workflow](https://github.com/Relativiteit/ros-robot-control-dashboard/actions/workflows/learn-github-actions.yml/badge.svg?branch=feature%2Fgithub-actions) -->
 
 # ROS Robot Control Dashboard
 
