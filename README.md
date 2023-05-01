@@ -1,3 +1,4 @@
+https://github.com/Relativiteit/ros-robot-control-dashboard/actions/workflows/learn-github-actions/badge.svg
 # ROS Robot Control Dashboard
 
 This repository contains the source code for a web-based robot control dashboard that interfaces with the Robot Operating System (ROS). The project consists of a frontend application built with React and TypeScript and a backend API developed using NestJS.
